@@ -20,11 +20,13 @@ A Python-based YouTube video downloader with a user-friendly GUI. This tool allo
    cd YouTubeDownloader
    
 2. **Create a virtual environment and install dependencies:**
+   ```sh
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    pip install -r requirements.txt
    
 4. **Run the application:**
+   ```sh
    python YoutubeDownloaderV1.py
 
 ## Usage
